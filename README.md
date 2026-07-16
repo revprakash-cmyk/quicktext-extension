@@ -1,0 +1,2 @@
+# quicktext-extension
+Quicktext
